@@ -1,5 +1,5 @@
 # Maria Carrero  
-**Microsoft 365 & Azure Administrator | Cloud Support | Modern Workplace | Azure AD | Entra ID
+**Microsoft 365 & Azure Administrator | Cloud Support | Modern Workplace | Azure AD | Entra ID**
 
 📍 Andalucía, España  
 📲 +34 611 053 282 📧 maria.carreob@outlook.com  
