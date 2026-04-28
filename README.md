@@ -1,7 +1,7 @@
-# Maria Carrero  
+# María Carrero  
 **Microsoft 365 & Azure Administrator | Cloud Support | Modern Workplace | Azure AD | Entra ID**
 
-📍 Andalucía, España  
+📍 Cádiz, España  
 📲 +34 611 053 282 📧 maria.carreob@outlook.com  
 🔗 LinkedIn: https://www.linkedin.com/in/mariacarrerob/
 🔗 Portfolio: https://github.com/mcarrerob  
@@ -29,7 +29,7 @@ Acostumbrada a trabajar en entornos críticos, realizando troubleshooting y sopo
 ## Experiencia Profesional
 
 ### **Especialista de Soporte N2 | Modern Workplace y Cloud — SEIDOR**  
-**01/2024 – Prente** 
+**01/2024 – Presente** 
 **Remoto**
 
 - Soporte y administración de Microsoft 365: Exchange Online, SharePoint, OneDrive y Teams, aplicando configuraciones y resolviendo incidencias de nivel 2.
@@ -90,6 +90,7 @@ Fabricación y control de calidad de componentes plásticos para sector médico,
 
 ### **📦 Ecommerce LAMP (Ubuntu + Apache + MariaDB + PHP)**  
 Proyecto desplegado en Linux y publicado en GitHub como portfolio.  
+
 Incluye:
 - Configuración completa de servidor LAMP  
 - Gestión de permisos, virtual hosts y seguridad básica  
